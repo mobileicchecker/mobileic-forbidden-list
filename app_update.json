@@ -1,21 +1,21 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "translations": {
     "en": {
-      "title": "What's new v1.5.6",
-      "body": "- Improved detection accuracy\n- Fixed minor bugs\n- RaYson ic fully coverd"
+      "title": "What's New in v1.5.6",
+      "body": "1. Incorrect IC Protection\nFound an IC with incorrect information? Report it to us on WhatsApp. Once verified, we will block it from the app within 5 minutes.\n\n2. New Rayson ICs Added\nSupport for additional Rayson ICs has been added.\n\n3. UFS Identification Added\nICs that use UFS storage are now clearly labeled. If UFS has a higher market value in your area, you can easily identify and trade it accordingly.\n\n4. Stability Improvements\nFixed several crashes and resolved various bugs for a smoother experience."
     },
     "ur": {
-      "title": "نیا کیا ہے",
-      "body": "- تشخیص کی درستگی بہتر کر دی گئی ہے\n- چھوٹی خرابیاں دور کر دی گئیں"
+      "title": "ورژن 1.5.6 میں نیا کیا ہے",
+      "body": "1. غلط آئی سی پروٹیکشن\nاگر آپ کو کوئی ایسی آئی سی نظر آئے جس کی معلومات غلط ہوں تو ہمیں واٹس ایپ پر اطلاع دیں۔ تصدیق کے بعد ہم اسے 5 منٹ کے اندر ایپ سے بلاک کر دیں گے۔\n\n2. نئی Rayson آئی سیز شامل\nاس اپڈیٹ میں مزید Rayson آئی سیز شامل کی گئی ہیں۔\n\n\n                                    3.UFS  کی شناخت شامل\nاب UFS اسٹوریج والی آئی سیز کے ٹائپ کے ساتھ UFS واضح طور پر دکھایا جائے گا۔ اگر آپ کے علاقے میں UFS کی مارکیٹ ویلیو زیادہ ہے تو آپ اسے آسانی سے شناخت کر کے اسی حساب سے خرید و فروخت کر سکتے ہیں۔\n\n4. استحکام میں بہتری\nکئی کریشز اور مختلف بگز کو ٹھیک کر دیا گیا ہے تاکہ ایپ پہلے سے زیادہ بہتر طریقے سے کام کرے۔"
     },
     "hi": {
-      "title": "नया क्या है",
-      "body": "- पहचान की सटीकता में सुधार\n- छोटी खामियां ठीक की गईं"
+      "title": "v1.5.6 में नया क्या है",
+      "body": "1. गलत IC सुरक्षा\nयदि आपको कोई IC गलत जानकारी दिखाती हुई मिले, तो हमें WhatsApp पर बताएं। सत्यापन के बाद हम उसे 5 मिनट के भीतर ऐप से ब्लॉक कर देंगे।\n\n2. नए Rayson IC जोड़े गए\nइस अपडेट में अतिरिक्त Rayson IC का समर्थन जोड़ा गया है।\n\n3. UFS पहचान जोड़ी गई\nअब UFS स्टोरेज वाले IC स्पष्ट रूप से UFS के रूप में दिखाए जाएंगे। यदि आपके क्षेत्र में UFS की बाजार कीमत अधिक है, तो आप उन्हें आसानी से पहचानकर उसी अनुसार खरीद और बिक्री कर सकते हैं।\n\n4. स्थिरता में सुधार\nबेहतर और अधिक स्थिर अनुभव के लिए कई क्रैश और विभिन्न बग्स को ठीक किया गया है।"
     },
     "fil": {
-      "title": "Ano ang Bago",
-      "body": "- Pinahusay ang katumpakan ng detection\n- Naayos ang mga maliliit na bug"
+      "title": "Ano'ng Bago sa v1.5.6",
+      "body": "1. Incorrect IC Protection\nKung may makita kang IC na may maling impormasyon, i-report ito sa amin sa WhatsApp. Kapag na-verify, iba-block namin ito sa app sa loob ng 5 minuto.\n\n2. New Rayson ICs Added\nNagdagdag kami ng suporta para sa higit pang Rayson ICs.\n\n3. UFS Identification Added\nAng mga IC na gumagamit ng UFS storage ay malinaw nang may label na UFS. Kung mas mataas ang halaga ng UFS sa inyong lugar, madali mo na itong matutukoy at maibebenta o mabibili nang tama.\n\n4. Stability Improvements\nNag-ayos kami ng ilang crashes at iba't ibang bugs upang maging mas maayos at mas stable ang paggamit ng app."
     }
   }
 }
