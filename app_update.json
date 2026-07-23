@@ -1,0 +1,21 @@
+{
+  "versionCode": 1,
+  "translations": {
+    "en": {
+      "title": "What's New",
+      "body": "- Improved detection accuracy\n- Fixed minor bugs"
+    },
+    "ur": {
+      "title": "نیا کیا ہے",
+      "body": "- تشخیص کی درستگی بہتر کر دی گئی ہے\n- چھوٹی خرابیاں دور کر دی گئیں"
+    },
+    "hi": {
+      "title": "नया क्या है",
+      "body": "- पहचान की सटीकता में सुधार\n- छोटी खामियां ठीक की गईं"
+    },
+    "fil": {
+      "title": "Ano ang Bago",
+      "body": "- Pinahusay ang katumpakan ng detection\n- Naayos ang mga maliliit na bug"
+    }
+  }
+}
