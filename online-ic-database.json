@@ -4,5 +4,10 @@
     "company": "SPECKTEK",
     "type": "EMCP",
     "ram": "6GB"
+  },
+  "JWC78": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMMC"
   }
 }
