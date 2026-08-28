@@ -1,1 +1,7 @@
-{}
+{
+  "JZ420": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMMC"
+  }
+}
