@@ -3,5 +3,10 @@
     "storage": "128GB",
     "company": "MICRON",
     "type": "EMMC"
+  },
+  "NZKA7007": {
+    "storage": "64GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
   }
 }
