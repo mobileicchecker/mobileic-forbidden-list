@@ -14,5 +14,10 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "8GB"
+  },
+  "M1GT15L347RF0186-CHN": {
+    "storage": "256GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
   }
 }
