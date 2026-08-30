@@ -8,5 +8,11 @@
     "storage": "64GB",
     "company": "UNKNOWN",
     "type": "EMMC"
+  },
+  "JZ388": {
+    "storage": "256GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "8GB"
   }
 }
