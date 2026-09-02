@@ -19,5 +19,10 @@
     "storage": "256GB",
     "company": "UNKNOWN",
     "type": "EMMC"
+  },
+  "JWC72": {
+    "storage": "64GB",
+    "company": "MICRON",
+    "type": "EMMC"
   }
 }
