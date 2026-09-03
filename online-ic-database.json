@@ -24,5 +24,10 @@
     "storage": "64GB",
     "company": "MICRON",
     "type": "EMMC"
+  },
+  "YAA390252": {
+    "storage": "64GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
   }
 }
