@@ -29,5 +29,11 @@
     "storage": "64GB",
     "company": "UNKNOWN",
     "type": "EMMC"
+  },
+  "NW27ADFTMC": {
+    "storage": "32GB",
+    "company": "UNKNOWN",
+    "type": "EMCP",
+    "ram": "3GB"
   }
 }
