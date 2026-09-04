@@ -35,5 +35,11 @@
     "company": "UNKNOWN",
     "type": "EMCP",
     "ram": "3GB"
+  },
+  "KM9YC0025M": {
+    "storage": "128GB",
+    "company": "SEC",
+    "type": "EMCP",
+    "ram": "8GB"
   }
 }
