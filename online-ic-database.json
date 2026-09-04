@@ -41,5 +41,10 @@
     "company": "SEC",
     "type": "EMCP",
     "ram": "8GB"
+  },
+  "UUHMJYQ128SBC": {
+    "storage": "128GB",
+    "company": "UNION MEMORY",
+    "type": "EMMC"
   }
 }
