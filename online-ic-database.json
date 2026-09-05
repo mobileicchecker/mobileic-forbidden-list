@@ -46,5 +46,11 @@
     "storage": "128GB",
     "company": "UNION MEMORY",
     "type": "EMMC"
+  },
+  "PG023": {
+    "storage": "64GB",
+    "company": "SPECTEK",
+    "type": "EMCP",
+    "ram": "4GB"
   }
 }
