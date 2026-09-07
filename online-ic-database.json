@@ -52,10 +52,5 @@
     "company": "SPECTEK",
     "type": "EMCP",
     "ram": "4GB"
-  },
-  "THGJFMT2E468ATV": {
-    "storage": "512GB",
-    "company": "UNKNOWN",
-    "type": "EMMC"
   }
 }
