@@ -52,5 +52,10 @@
     "company": "SPECTEK",
     "type": "EMCP",
     "ram": "4GB"
+  },
+  "CTE4A0YJ-X28E": {
+    "storage": "128GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
   }
 }
