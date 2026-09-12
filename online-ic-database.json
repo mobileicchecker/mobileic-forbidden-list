@@ -57,5 +57,10 @@
     "storage": "128GB",
     "company": "UNKNOWN",
     "type": "EMMC"
+  },
+  "JW960": {
+    "storage": "2GB",
+    "company": "MICRON",
+    "type": "EMCP"
   }
 }
