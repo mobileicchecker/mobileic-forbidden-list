@@ -62,5 +62,10 @@
     "storage": "2GB",
     "company": "MICRON",
     "type": "EMCP"
+  },
+  "JZ590": {
+    "storage": "512GB",
+    "company": "MICRON",
+    "type": "EMMC   (UFS)"
   }
 }
