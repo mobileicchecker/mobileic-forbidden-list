@@ -67,5 +67,10 @@
     "storage": "512GB",
     "company": "MICRON",
     "type": "EMMC   (UFS)"
+  },
+  "JW498": {
+    "storage": "2GB",
+    "company": "MICRON",
+    "type": "EMCP"
   }
 }
