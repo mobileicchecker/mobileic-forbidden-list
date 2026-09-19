@@ -72,5 +72,11 @@
     "storage": "2GB",
     "company": "MICRON",
     "type": "EMCP"
+  },
+  "JZ732": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "4GB"
   }
 }
