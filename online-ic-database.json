@@ -78,5 +78,11 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "4GB"
+  },
+  "JZ405": {
+    "storage": "512GB",
+    "company": "MICRON",
+    "type": "EMCP  (UMCP)",
+    "ram": "8GB"
   }
 }
