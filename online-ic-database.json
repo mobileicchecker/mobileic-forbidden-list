@@ -84,5 +84,11 @@
     "company": "MICRON",
     "type": "EMCP  (UMCP)",
     "ram": "8GB"
+  },
+  "JY938": {
+    "storage": "8GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "1GB"
   }
 }
