@@ -95,5 +95,10 @@
     "storage": "512GB",
     "company": "MICRON",
     "type": "EMMC   (UFS)"
+  },
+  "JY934": {
+    "storage": "4GB",
+    "company": "MICRON",
+    "type": "EMCP"
   }
 }
