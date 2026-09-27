@@ -100,5 +100,11 @@
     "storage": "4GB",
     "company": "MICRON",
     "type": "EMCP"
+  },
+  "JZ336: {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMCP   (uMCP)"
+    "ram": "8GB"
   }
 }
