@@ -90,5 +90,10 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "1GB"
+  },
+  "JZ347": {
+    "storage": "512GB",
+    "company": "MICRON",
+    "type": "EMMC   (UFS)"
   }
 }
