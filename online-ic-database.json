@@ -1,7 +1,117 @@
 {
+   "JZ420": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMMC"
+  },
+  "NZKA7007": {
+    "storage": "64GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
+  },
+  "JZ388": {
+  "M1GT15": {
+    "storage": "256GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "8GB"
+  },
+  "M1GT15L347RF0186-CHN": {
+    "storage": "256GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
+  },
+  "JWC72": {
+    "storage": "64GB",
+    "company": "MICRON",
+    "type": "EMMC"
+  },
+  "YAA390252": {
+    "storage": "64GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
+  },
+  "NW27ADFTMC": {
+    "storage": "32GB",
+    "company": "UNKNOWN",
+    "type": "EMCP",
+    "ram": "3GB"
+  },
+  "KM9YC0025M": {
+    "storage": "128GB",
+    "company": "SEC",
+    "type": "EMCP",
+    "ram": "8GB"
+  },
+  "UUHMJYQ128SBC": {
+    "storage": "128GB",
+    "company": "UNION MEMORY",
+    "type": "EMMC"
+  },
+  "PG023": {
+    "storage": "64GB",
+    "company": "SPECTEK",
+    "type": "EMCP",
+    "ram": "4GB"
+  },
+  "CTE4A0YJ-X28E": {
+    "storage": "128GB",
+    "company": "UNKNOWN",
+    "type": "EMMC"
+  },
+  "JW960": {
+    "storage": "2GB",
+    "company": "MICRON",
+    "type": "EMCP"
+  },
+  "JZ590": {
+    "storage": "512GB",
+    "company": "MICRON",
+    "type": "EMMC   (UFS)"
+  },
+  "JW498": {
+    "storage": "2GB",
+    "company": "MICRON",
+    "type": "EMCP"
+  },
+  "JZ732": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "4GB"
+  },
+  "JZ405": {
+    "storage": "512GB",
+    "company": "MICRON",
+    "type": "EMCP  (UMCP)",
+    "ram": "8GB"
+  },
+  "JY938": {
+    "storage": "8GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "1GB"
+  },
+  "JZ347": {
+    "storage": "512GB",
+    "company": "MICRON",
+    "type": "EMMC   (UFS)"
+  },
+  "JY934": {
+    "storage": "4GB",
+    "company": "MICRON",
+    "type": "EMCP"
+ },
+  "JY938": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "8GB"
+  },
   "M1GT15L210JJ3098-TWN": {
     "storage": "256GB",
     "company": "UNKNOWN",
     "type": "EMMC"
   }
+
 }
