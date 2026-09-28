@@ -10,7 +10,6 @@
     "type": "EMMC"
   },
   "JZ388": {
-  "M1GT15": {
     "storage": "256GB",
     "company": "MICRON",
     "type": "EMCP",
@@ -107,11 +106,5 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "8GB"
-  },
-  "M1GT15L210JJ3098-TWN": {
-    "storage": "256GB",
-    "company": "UNKNOWN",
-    "type": "EMMC"
   }
-
 }
