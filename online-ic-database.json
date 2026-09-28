@@ -100,11 +100,5 @@
     "storage": "4GB",
     "company": "MICRON",
     "type": "EMCP"
- },
-  "JY938": {
-    "storage": "128GB",
-    "company": "MICRON",
-    "type": "EMCP",
-    "ram": "8GB"
-  }
+ }
 }
