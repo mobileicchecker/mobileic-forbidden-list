@@ -1,5 +1,5 @@
 {
-   "JZ420": {
+  "JZ420": {
     "storage": "128GB",
     "company": "MICRON",
     "type": "EMMC"
@@ -100,5 +100,11 @@
     "storage": "4GB",
     "company": "MICRON",
     "type": "EMCP"
- }
+  },
+  "JW893": {
+    "storage": "8GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "1GB"
+  }
 }
