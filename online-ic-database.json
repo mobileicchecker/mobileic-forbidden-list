@@ -106,5 +106,10 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "1GB"
+  },
+  "JZ072": {
+    "storage": "4GB",
+    "company": "MICRON",
+    "type": "EMMC"
   }
 }
