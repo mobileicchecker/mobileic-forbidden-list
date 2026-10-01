@@ -111,5 +111,10 @@
     "storage": "4GB",
     "company": "MICRON",
     "type": "EMMC"
+  },
+  "JZ161": {
+    "storage": "256GB",
+    "company": "MICRON",
+    "type": "EMMC   (UFS)"
   }
 }
