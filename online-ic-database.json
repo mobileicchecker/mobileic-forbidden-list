@@ -9,6 +9,11 @@
     "storage": "1TB (1024GB)",
     "company": "MICRON",
     "type": "EMMC   (UFS)"
+  },
+  "JZ449": {
+    "storage": "256GB",
+    "company": "MICRON",
+    "type": "EMMC   (UFS)"
   }
   
 }
