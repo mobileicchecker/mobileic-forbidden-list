@@ -4,5 +4,11 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "8GB"
+  },
+  "JZ529": {
+    "storage": "1TB (1024GB)",
+    "company": "MICRON",
+    "type": "EMMC"
   }
+  
 }
