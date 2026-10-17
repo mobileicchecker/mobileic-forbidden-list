@@ -14,6 +14,12 @@
     "storage": "256GB",
     "company": "MICRON",
     "type": "EMMC   (UFS)"
+  },
+  "JZ277": {
+    "storage": "16GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "2GB"
   }
   
 }
