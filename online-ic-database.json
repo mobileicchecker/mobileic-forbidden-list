@@ -20,6 +20,12 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "2GB"
+  },
+  "JZ398": {
+    "storage": "256GB",
+    "company": "MICRON",
+    "type": "EMCP   (uMCP)",
+    "ram": "8GB"
   }
   
 }
