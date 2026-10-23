@@ -26,6 +26,10 @@
     "company": "MICRON",
     "type": "EMCP   (uMCP)",
     "ram": "8GB"
+  },
+  "KMBWC001YA": {
+    "storage": "128GB",
+    "company": "SEC",
+    "type": "EMCP"
   }
-  
 }
