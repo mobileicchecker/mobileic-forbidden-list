@@ -31,5 +31,11 @@
     "storage": "128GB",
     "company": "SEC",
     "type": "EMCP"
+  },
+  "JZ672": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "6GB"
   }
 }
