@@ -40,8 +40,14 @@
   },
   "PA144": {
     "storage": "256GB",
-    "company": "MICRON",
+    "company": "SPECTEK",
     "type": "EMCP",
     "ram": "8GB"
+  },
+  "PA044": {
+    "storage": "8GB",
+    "company": "SPECTEK",
+    "type": "EMCP",
+    "ram": "1GB"
   }
 }
