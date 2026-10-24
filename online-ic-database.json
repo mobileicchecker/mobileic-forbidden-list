@@ -37,5 +37,11 @@
     "company": "MICRON",
     "type": "EMCP",
     "ram": "6GB"
+  },
+  "PA144": {
+    "storage": "256GB",
+    "company": "MICRON",
+    "type": "EMCP",
+    "ram": "8GB"
   }
 }
