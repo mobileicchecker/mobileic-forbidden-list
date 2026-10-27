@@ -49,5 +49,11 @@
     "company": "SPECTEK",
     "type": "EMCP",
     "ram": "1GB"
+  },
+  "JZ403": {
+    "storage": "128GB",
+    "company": "MICRON",
+    "type": "EMCP   (uMCP)",
+    "ram": "6GB"
   }
 }
