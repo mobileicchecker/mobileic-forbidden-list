@@ -55,5 +55,10 @@
     "company": "MICRON",
     "type": "EMCP   (uMCP)",
     "ram": "6GB"
+  },
+  "JZ493": {
+    "storage": "64GB",
+    "company": "MICRON",
+    "type": "eMMC"
   }
 }
